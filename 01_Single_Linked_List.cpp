@@ -84,7 +84,5 @@ int main() {
     printLL();
     popTail();
     printLL();
-
-
     return 0;
 }
